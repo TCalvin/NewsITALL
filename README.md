@@ -14,7 +14,7 @@ install vue using “npm install -g @vue/cli”, wait for it to complete before 
 dependencies using “npm install” 
 
 Download and install Python 
-Python 3.6 is required
+Python 3.6x is required
 
 a. pip install bcrypt 
 b. pip install feedparser 
